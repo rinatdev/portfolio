@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
@@ -14,4 +10,3 @@ p    {color: red;}
 
 </body>
 </html>
-
