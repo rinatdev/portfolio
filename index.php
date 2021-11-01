@@ -7,7 +7,6 @@ h1 {
   font-family: verdana;
   font-size: 300%;
 }
-<img url="http://wallup.net/wp-content/uploads/2017/03/16/217009-sky-clouds.jpg" alt="Italian Trulli">
 p {
   color: red;
   font-family: courier;
