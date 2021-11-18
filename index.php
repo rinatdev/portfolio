@@ -16,7 +16,7 @@
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlFn9cvjr_wlX0t0wLmyQZp2vNBR27N0saWg&usqp=CAU" alt="" width="30" height="24" class="d-inline-block align-text-top"> Rinat
         </a>
         <a class="p-2 bd-highlight" href="#">
-            <img src="https://futuredreamprojects.com/logo/dd.jpg" alt="" width="24" height="24" class="d-inline-block align-text-top">
+            <img src="https://futuredreamprojects.com/logo/dd.jpg" alt="" width="26" height="26" class="d-inline-block align-text-top">
             <a class="nav-link mt-1 ps-0 text-light" href="#">Sign in</a>
         </a>
     </div>
