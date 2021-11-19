@@ -11,7 +11,7 @@
 
 <body>
     <div class="d-flex bd-highlight mb-2 bc">
-        <a class="navbar-brand me-auto p-2 bd-highlight logo-hover" href="index.html">
+        <a class="navbar-brand me-auto p-2 bd-highlight logo-hover" href="index.php">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlFn9cvjr_wlX0t0wLmyQZp2vNBR27N0saWg&usqp=CAU" alt="" width="30" height="24" class="d-inline-block align-text-top"> Rinat
         </a>
         <a class="p-2 bd-highlight" href="#">
