@@ -4,6 +4,13 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 300px;
+}
 
 .bc {
     background-color: black;
@@ -40,4 +47,27 @@ body {
 
 .logo-hover:hover {
     color: rgb(255, 196, 0);
+}
+footer{
+    background-color: #ebab34;
+    color: #fff;
+
+}
+.conteiner{
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 30px;
+}
+.conteiner p {
+    margin: 0;
+}
+.conteiner h5 {
+    color: #000;
+}
+.conteiner p a{
+    color: #fff;
+}
+
+.conteiner p a:hover{
+    color: #000;
 }
