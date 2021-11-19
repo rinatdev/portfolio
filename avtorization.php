@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="styles.css">
     <title>Rinat</title>
 </head>
-
 <body>
     <div class="d-flex bd-highlight mb-2 bc">
         <a class="navbar-brand me-auto p-2 bd-highlight logo-hover" href="index.php">
@@ -19,8 +18,24 @@
             <a class="nav-link mt-1 ps-0 hover" href="avtorization.html">Sign in</a>
         </a>
     </div>
+    <div class="form">
+    <h2>Log in</h2>
+  <input type="text" name="username" id="username">
+  <input type="password" name="password" id="password">
+  <input type="submit" value="Submit" onclick="login()">
+<script>
+  function login(){
+    console.log("Submit")
+    username = document.getElementById("username");
+    password = document.getElementById('password');
+    if(username.value == "rinat" && password.value == "qwerty"){
+      console.log("Correct username and password");
+      window.location.replace("open.html");
+    }
+  }
+</script>
+    </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
 </body>
-
 </html>
