@@ -16,7 +16,7 @@
         </a>
         <a class="p-2 bd-highlight" href="#">
             <img src="https://futuredreamprojects.com/logo/dd.jpg" alt="" width="26" height="26" class="d-inline-block align-text-top">
-            <a class="nav-link mt-1 ps-0 hover" href="avtorization.html">Sign in</a>
+            <a class="nav-link mt-1 ps-0 hover" href="avtorization.php">Sign in</a>
         </a>
     </div>
 
