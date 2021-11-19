@@ -30,7 +30,7 @@
     password = document.getElementById('password');
     if(username.value == "rinat" && password.value == "qwerty"){
       console.log("Correct username and password");
-      window.location.replace("open.html");
+      window.location.replace("open.php");
     }
   }
 </script>
