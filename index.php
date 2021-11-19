@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="styles.css">
     <title>Rinat</title>
 </head>
-
 <body>
     <div class="d-flex bd-highlight mb-2 bc">
         <a class="navbar-brand me-auto p-2 bd-highlight logo-hover" href="#">
@@ -19,12 +18,11 @@
             <a class="nav-link mt-1 ps-0 hover" href="avtorization.php">Sign in</a>
         </a>
     </div>
-
     <div class="d-flex">
         <div class="d-block m-5">
-            <img class="ava" src="ava.jpeg" alt="">
+            <img class="ava" src="ava.jpeg" style="max-width: 450px;" alt="">
         </div>
-        <div class="card border-0 align-self-center" style="margin-left: 8rem; background-color: black; color: #fff;">
+        <div class="card border-0 align-self-center" style="margin-left: 7rem; background-color: black; color: #fff;">
             <div class="card-body border-light mb-3" style="max-width: 36rem;">
                 <h5 class="card-title">HI THERE !</h5>
                 <h1 class="card-title">I'M <a style="color: rgb(255, 196, 0);">WEB DEVELOPER</a></h1>
@@ -34,7 +32,24 @@
         </div>
     </div>
 
+
+    <footer>
+        <div class="conteiner d-flex justify-content-between">
+            <div>
+                <h5>Contacts:</h5>
+                <p>Phone number: +996(500)100-164</p>
+                <p>Address: Isakeeva 18/15</p>
+            </div>
+
+            <div>
+                <h5>Social media:</h5>
+                <p><a href="https://www.instagram.com/"><img src="insta.png">Instagram</a></p>
+                <p><a href="https://github.com"><img src="github.png">github</a></p>
+                <p><a href="https://vk.com/"><img src="vk.png">vk</a></p>
+            </div>
+        </div>
+    </footer>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
 </body>
-
 </html>
