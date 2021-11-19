@@ -24,7 +24,7 @@
         <div class="d-block m-5">
             <img class="ava" src="ava.jpeg" alt="">
         </div>
-        <div class="card border-0 align-self-center" style="margin-left: 11rem; background-color: black; color: #fff;">
+        <div class="card border-0 align-self-center" style="margin-left: 8rem; background-color: black; color: #fff;">
             <div class="card-body border-light mb-3" style="max-width: 36rem;">
                 <h5 class="card-title">HI THERE !</h5>
                 <h1 class="card-title">I'M <a style="color: rgb(255, 196, 0);">WEB DEVELOPER</a></h1>
