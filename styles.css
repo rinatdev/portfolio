@@ -1,3 +1,43 @@
+body {
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAJFBMVEUAAAD///8MDAwmJCHp6efp6Of///3s6+gwLSkWFhUmJCAtKyvGqybaAAABqklEQVR4nO3bSwrCQAAFwTFq/N3/vl7AhZ0IQ7Bq78LmESaMjtNEt/tYDuQxZsa6nMeRLGJ9T6xgbqyrWN+zLLHEGmIlHvCBZQViBWIFYgViBWIFYgViBWIFYgViBWIFYgViBWIFYgViBWIFYgViBS4sAssKxArECsQKxArECsQKxAocSgPLCsQKxArECsQKxArECsQKxArECsQKxArECsQKxArECsQKxArECsQKxArECsQK3BsGlhWIFYgViBWIFYgViBWIFYgViBWIFYgVeJEOLCuwrMCyArECsQKxArECsQKxArECsYK9sdZ13fFpJ/jgz5Ylllif/SrWtifXn8baRiyxxBpiJWIFYgViBWIFYgViBWIFYgViBWIFYgViBWIFYgViBWIFYgViBWIFYgViBX4HH1hWYFmBZQViBWIFYgViBWIFYgXOWYFlBWIFYgViBWIFk2M9Z3//ZH+sPf+hsyyxxBpiJWIFYgViBWIFYgViBWIFYgViBWIFYgVudwLLCsQKxArECsQKxArECpyzAssKxArECsQKxArECsQKxAomx3qN5UAebyLSWkmm9D6kAAAAAElFTkSuQmCC");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 .bc {
     background-color: black;
+}
+
+.ava {
+    border-radius: 15px;
+    box-shadow: 0 0 30px rgb(0 0 0 / 90%)
+}
+
+.ava:hover {
+    box-shadow: 0 0 60px rgb(0 0 0 / 90%)
+}
+
+.info {
+    margin: 300px;
+}
+
+.btn-red {
+    background-color: #d90000;
+}
+
+.hover {
+    color: rgb(255, 196, 0);
+}
+
+.hover:hover {
+    color: #fff;
+}
+
+.logo-hover {
+    color: #fff;
+}
+
+.logo-hover:hover {
+    color: rgb(255, 196, 0);
 }
